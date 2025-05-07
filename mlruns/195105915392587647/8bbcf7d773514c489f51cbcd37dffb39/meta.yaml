@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Federico%20Rusi/github/MLOpsISTEA/mlruns/195105915392587647/8bbcf7d773514c489f51cbcd37dffb39/artifacts
+end_time: 1746576760458
+entry_point_name: ''
+experiment_id: '195105915392587647'
+lifecycle_stage: active
+run_id: 8bbcf7d773514c489f51cbcd37dffb39
+run_name: flawless-worm-98
+run_uuid: 8bbcf7d773514c489f51cbcd37dffb39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746576760207
+status: 3
+tags: []
+user_id: Federico Rusi

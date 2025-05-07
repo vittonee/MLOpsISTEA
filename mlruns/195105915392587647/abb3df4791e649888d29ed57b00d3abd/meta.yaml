@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Federico%20Rusi/github/MLOpsISTEA/mlruns/195105915392587647/abb3df4791e649888d29ed57b00d3abd/artifacts
+end_time: 1746576064906
+entry_point_name: ''
+experiment_id: '195105915392587647'
+lifecycle_stage: active
+run_id: abb3df4791e649888d29ed57b00d3abd
+run_name: peaceful-grouse-212
+run_uuid: abb3df4791e649888d29ed57b00d3abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746576055609
+status: 3
+tags: []
+user_id: Federico Rusi

@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Federico%20Rusi/github/MLOpsISTEA/mlruns/195105915392587647
+creation_time: 1746575470722
+experiment_id: '195105915392587647'
+last_update_time: 1746575470722
+lifecycle_stage: active
+name: decision_tree_training

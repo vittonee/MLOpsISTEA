@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Federico%20Rusi/github/MLOpsISTEA/mlruns/195105915392587647/8db48ff1eea24d56a53a995d5093f411/artifacts
+end_time: 1746576977208
+entry_point_name: ''
+experiment_id: '195105915392587647'
+lifecycle_stage: active
+run_id: 8db48ff1eea24d56a53a995d5093f411
+run_name: rogue-shrike-242
+run_uuid: 8db48ff1eea24d56a53a995d5093f411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746576977034
+status: 3
+tags: []
+user_id: Federico Rusi
